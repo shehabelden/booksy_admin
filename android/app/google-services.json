@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "337941394841",
+    "project_id": "booksy-532e0",
+    "storage_bucket": "booksy-532e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337941394841:android:8fb3f194edc94de9828f08",
+        "android_client_info": {
+          "package_name": "com.example.booksy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6x-auoHAwL8xw4WPFdlQKKKgaB0ZsL94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337941394841:android:03be75401b02d399828f08",
+        "android_client_info": {
+          "package_name": "com.example.booksy_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6x-auoHAwL8xw4WPFdlQKKKgaB0ZsL94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337941394841:android:e67d90899e0f2901828f08",
+        "android_client_info": {
+          "package_name": "com.example.boxyforyou"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6x-auoHAwL8xw4WPFdlQKKKgaB0ZsL94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
